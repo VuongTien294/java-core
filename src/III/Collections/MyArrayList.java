@@ -1,4 +1,4 @@
-package III.Collections.CustomCollection;
+package III.Collections;
 
 import java.util.Arrays;
 

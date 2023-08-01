@@ -1,8 +1,8 @@
-package III.Collections.CustomCollection;
-
-import org.w3c.dom.Node;
+package III.Collections;
 
 public class MyLinkedList<E> {
+
+    ///
 
     private int size;
     private MyNode head;
