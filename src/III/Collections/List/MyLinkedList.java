@@ -1,4 +1,4 @@
-package III.Collections;
+package III.Collections.List;
 
 public class MyLinkedList<E> {
 
