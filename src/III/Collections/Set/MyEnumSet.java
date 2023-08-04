@@ -1,7 +1,6 @@
 package III.Collections.Set;
 
 import java.util.EnumSet;
-import java.util.Set;
 
 public class MyEnumSet {
     public static void main(String[] args) {
