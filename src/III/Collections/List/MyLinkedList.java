@@ -1,9 +1,6 @@
 package III.Collections.List;
 
 public class MyLinkedList<E> {
-
-    ///
-
     private int size;
     private MyNode head;
     private MyNode tail;
@@ -73,6 +70,7 @@ public class MyLinkedList<E> {
     }
 
     public void printForward() {
+        System.out.println("print for ward");
         MyNode current = head;
         while (current != null) {
             System.out.print(current.data + " ");
@@ -82,6 +80,7 @@ public class MyLinkedList<E> {
     }
 
     public void printBackward() {
+        System.out.println("print back ward");
         MyNode current = tail;
         while (current != null) {
             System.out.print(current.data + " ");
