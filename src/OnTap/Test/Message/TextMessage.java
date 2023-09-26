@@ -1,5 +1,9 @@
 package OnTap.Test.Message;
 
-public abstract class TextMessage implements Message{
-    public abstract void display(String msg);
-}
+//public abstract class TextMessage implements Message{
+//    public abstract void display(String msg){
+//
+//    }
+//}
+
+//Option A sai

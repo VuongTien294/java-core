@@ -11,8 +11,6 @@ import java.util.Map;
 import java.util.Set;
 
 public class Count {
-
-
     public static void count(String queuePerson){
         int soW = 0;
         int soC = 0;
